@@ -18,7 +18,7 @@ def printMyName(name):
 ```
 [Markdown Guide](https://www.markdownguide.org/)
 
-![Logo do ISA](https://old.isa.ulisboa.pt/files/site/pub/LogoISA.jpg)
+![Logo do ISA](./fads_images/logo.jpg)
 
 |ID| Column 1| Column 2| Column 3|
 |--|---------|---------|---------|
